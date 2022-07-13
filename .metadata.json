@@ -14,5 +14,17 @@
   {
     "package": "Rankcluster",
     "oncran": true
+  },
+  {
+    "package": "RMixtComp",
+    "oncran": true
+  },
+  {
+    "package": "RMixtCompIO",
+    "oncran": true
+  },
+  {
+    "package": "RMixtCompUtilities",
+    "oncran": true
   }
 ]

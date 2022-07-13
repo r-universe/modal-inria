@@ -23,3 +23,21 @@
 	url = https://github.com/modal-inria/rankcluster
 	shallow = true
 	registered = true
+[submodule "RMixtComp"]
+	path = RMixtComp
+	url = https://github.com/modal-inria/mixtcomp
+	shallow = true
+	subdir = RMixtComp
+	registered = true
+[submodule "RMixtCompIO"]
+	path = RMixtCompIO
+	url = https://github.com/modal-inria/mixtcomp
+	shallow = true
+	subdir = RMixtCompIO
+	registered = true
+[submodule "RMixtCompUtilities"]
+	path = RMixtCompUtilities
+	url = https://github.com/modal-inria/mixtcomp
+	shallow = true
+	subdir = RMixtCompUtilities
+	registered = true
