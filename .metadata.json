@@ -4,8 +4,7 @@
     "oncran": true
   },
   {
-    "package": "HDPenReg",
-    "oncran": true
+    "package": "HDPenReg"
   },
   {
     "package": "MLGL",
