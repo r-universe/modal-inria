@@ -8,11 +8,6 @@
 	url = https://github.com/modal-inria/cfda
 	shallow = true
 	registered = true
-[submodule "HDPenReg"]
-	path = HDPenReg
-	url = https://github.com/modal-inria/hdpenreg
-	shallow = true
-	registered = true
 [submodule "MLGL"]
 	path = MLGL
 	url = https://github.com/modal-inria/mlgl
