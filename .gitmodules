@@ -3,19 +3,25 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cfda"]
-	path = cfda
-	url = https://github.com/modal-inria/cfda
+[submodule "Rankcluster"]
+	path = Rankcluster
+	url = https://github.com/modal-inria/rankcluster
 	shallow = true
+	registered = true
+[submodule "RMixtCompIO"]
+	path = RMixtCompIO
+	url = https://github.com/modal-inria/mixtcomp
+	shallow = true
+	subdir = RMixtCompIO
 	registered = true
 [submodule "MLGL"]
 	path = MLGL
 	url = https://github.com/modal-inria/mlgl
 	shallow = true
 	registered = true
-[submodule "Rankcluster"]
-	path = Rankcluster
-	url = https://github.com/modal-inria/rankcluster
+[submodule "cfda"]
+	path = cfda
+	url = https://github.com/modal-inria/cfda
 	shallow = true
 	registered = true
 [submodule "RMixtComp"]
@@ -23,12 +29,6 @@
 	url = https://github.com/modal-inria/mixtcomp
 	shallow = true
 	subdir = RMixtComp
-	registered = true
-[submodule "RMixtCompIO"]
-	path = RMixtCompIO
-	url = https://github.com/modal-inria/mixtcomp
-	shallow = true
-	subdir = RMixtCompIO
 	registered = true
 [submodule "RMixtCompUtilities"]
 	path = RMixtCompUtilities
