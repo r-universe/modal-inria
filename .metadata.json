@@ -1,10 +1,6 @@
 [
   {
-    "package": "Rankcluster",
-    "oncran": true
-  },
-  {
-    "package": "RMixtCompIO",
+    "package": "cfda",
     "oncran": true
   },
   {
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "cfda",
+    "package": "Rankcluster",
     "oncran": true
   },
   {
     "package": "RMixtComp",
+    "oncran": true
+  },
+  {
+    "package": "RMixtCompIO",
     "oncran": true
   },
   {
