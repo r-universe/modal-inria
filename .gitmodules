@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cfda"]
-	path = cfda
-	url = https://github.com/modal-inria/cfda
 [submodule "MLGL"]
 	path = MLGL
 	url = https://github.com/modal-inria/mlgl
-[submodule "Rankcluster"]
-	path = Rankcluster
-	url = https://github.com/modal-inria/rankcluster
 [submodule "RMixtComp"]
 	path = RMixtComp
 	url = https://github.com/modal-inria/mixtcomp
@@ -23,3 +17,9 @@
 	path = RMixtCompUtilities
 	url = https://github.com/modal-inria/mixtcomp
 	subdir = RMixtCompUtilities
+[submodule "Rankcluster"]
+	path = Rankcluster
+	url = https://github.com/modal-inria/rankcluster
+[submodule "cfda"]
+	path = cfda
+	url = https://github.com/modal-inria/cfda
